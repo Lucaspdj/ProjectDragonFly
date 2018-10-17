@@ -2,11 +2,10 @@
 .settings/
 .sass-cache/
 .project
+.eslintrc
 .idea
-npm-debug.log*
-yarn-error.log
-yarn.lock
-style/.sass-cache/
+npm-debug.log
+_index.html
 
 img/
 images/
@@ -16,5 +15,3 @@ vendor/
 coverage/
 node_modules/
 bower_components/
-grapesjs-*.tgz
-_index.html
